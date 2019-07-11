@@ -12,7 +12,7 @@ Create a native mobile application that follows the following criteria:
 
 # User Story
 
-Create an app that tries to simulate a Cloud storage application (e.g. Dropbox, Google Drive, OneDrive, Box, etc.).  
+Create an app that tries to simulate a Cloud storage application (e.g. Dropbox, Google Drive, OneDrive).  
 
 The app should have:   
 1 - Show the list of files and folders loaded from the data model (`data.json`).  
