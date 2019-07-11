@@ -4,11 +4,11 @@ Coding challenge for candidates
 # Requirements
 Create a native mobile application that follows the following criteria:
 
-1 - Try to simulate a real application project with the best programming practices.\
-2 - Use any tool or framework that you would use in a real project. Please, provide an explanation for using it.\
-3 - Design the interface using best practices for the platform.\
-4 - Add instructions to run your application.\
-5 - Send your project as a ZIP file or GitHub repository. \
+1 - Try to simulate a real application project with the best programming practices.  
+2 - Use any tool or framework that you would use in a real project. Please, provide an explanation for using it.  
+3 - Design the interface using best practices for the platform.   
+4 - Add instructions to run your application.  
+5 - Send your project as a ZIP file or GitHub repository.  
 
 # User Story
 
