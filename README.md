@@ -10,7 +10,7 @@ Create a native mobile application that follows the following criteria:
 4 - Add instructions to run your application.  
 5 - Send your project as a ZIP file or GitHub repository.   
 
-# User Story
+# Acceptance Criteria
 
 Create an app that tries to simulate a Cloud storage application (e.g. Dropbox, Google Drive, OneDrive).  
 
