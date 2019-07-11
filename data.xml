@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name": "profile.docx",
+        "type": "docx",
+        "resource_type": "file"
+    },
+    {
+        "id":2,
+        "name": "family.jpg",
+        "type": "jpeg",
+        "resource_type": "file"
+    },
+    {
+        "id":3,
+        "name": "picture.png",
+        "type": "png",
+        "resource_type": "file"
+    }
+]
