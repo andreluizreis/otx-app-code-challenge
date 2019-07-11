@@ -1,0 +1,188 @@
+[
+    {
+        "id":1,
+        "name": "profile.docx",
+        "file_type": "docx",
+        "resource_type": "file",
+        "parent_id": null
+    },
+    {
+        "id":2,
+        "name": "family.jpg",
+        "file_type": "jpeg",
+        "resource_type": "file",
+        "parent_id": null
+    },
+    {
+        "id":3,
+        "name": "picture.png",
+        "file_type": "png",
+        "resource_type": "file",
+        "parent_id": null
+    },
+    {
+        "id":4,
+        "name": "animals",
+        "resource_type": "folder",
+        "parent_id": null
+    },
+    {
+        "id":5,
+        "name": "cat.png",
+        "file_type": "png",
+        "resource_type": "file",
+        "parent_id": 4
+    },
+    {
+        "id":6,
+        "name": "dog.doc",
+        "file_type": "doc",
+        "resource_type": "file",
+        "parent_id": 4
+    },
+    {
+        "id":7,
+        "name": "goose.xml",
+        "file_type": "xml",
+        "resource_type": "file",
+        "parent_id": 9
+    },
+    {
+        "id":8,
+        "name": "lion.ppt",
+        "file_type": "ppt",
+        "resource_type": "file",
+        "parent_id": 4
+    },
+    {
+        "id":9,
+        "name": "birds",
+        "resource_type": "folder",
+        "parent_id": 4
+    },
+    {
+        "id":9,
+        "name": "birds",
+        "resource_type": "folder",
+        "parent_id": 4
+    },
+    {
+        "id":10,
+        "name": "duck.jpg",
+        "file_type": "jpeg",
+        "resource_type": "file",
+        "parent_id": 9
+    },
+    {
+        "id":11,
+        "name": "cardinal.png",
+        "file_type": "png",
+        "resource_type": "file",
+        "parent_id": 9
+    },
+    {
+        "id":12,
+        "name": "family",
+        "resource_type": "folder",
+        "parent_id": null
+    },
+    {
+        "id":13,
+        "name": "docs",
+        "resource_type": "folder",
+        "parent_id": 12
+    },
+    {
+        "id":14,
+        "name": "Kids",
+        "resource_type": "folder",
+        "parent_id": 12
+    },
+    {
+        "id":15,
+        "name": "School",
+        "resource_type": "folder",
+        "parent_id": 12
+    },
+    {
+        "id":16,
+        "name": "David.jpg",
+        "file_type": "jpeg",
+        "resource_type": "file",
+        "parent_id": 12
+    },
+    {
+        "id":17,
+        "name": "Sarah.jpg",
+        "file_type": "jpeg",
+        "resource_type": "file",
+        "parent_id": 12
+    },
+    {
+        "id":18,
+        "name": "Marco.pptx",
+        "file_type": "pptx",
+        "resource_type": "file",
+        "parent_id": 12
+    },
+    {
+        "id":19,
+        "name": "presentation4.pptx",
+        "file_type": "pptx",
+        "resource_type": "file",
+        "parent_id": 20
+    },
+    {
+        "id":20,
+        "name": "presentations",
+        "resource_type": "folder",
+        "parent_id": null
+    },
+    {
+        "id":21,
+        "name": "presentation1.pptx",
+        "file_type": "pptx",
+        "resource_type": "file",
+        "parent_id": 20
+    },
+    {
+        "id":22,
+        "name": "presentation2.pptx",
+        "file_type": "pptx",
+        "resource_type": "file",
+        "parent_id": 20
+    },
+    {
+        "id":23,
+        "name": "presentation3.pptx",
+        "file_type": "pptx",
+        "resource_type": "file",
+        "parent_id": 20
+    },
+    {
+        "id":24,
+        "name": "Maria.jpg",
+        "file_type": "jpeg",
+        "resource_type": "file",
+        "parent_id": 12
+    },
+    {
+        "id":25,
+        "name": "Foods",
+        "resource_type": "folder",
+        "parent_id": 12
+    },
+    {
+        "id":26,
+        "name": "Poutine.pptx",
+        "file_type": "pptx",
+        "resource_type": "file",
+        "parent_id": 25
+    },
+    {
+        "id":27,
+        "name": "Salty Foods",
+        "resource_type": "folder",
+        "parent_id": 25
+    }
+]
