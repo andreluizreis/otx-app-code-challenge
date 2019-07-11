@@ -1,5 +1,5 @@
 # App Code Challenge
-Coding challenge for candidates .  
+Coding challenge for new candidates.  
 
 # Requirements
 Create a native mobile application that follows the following criteria:   
