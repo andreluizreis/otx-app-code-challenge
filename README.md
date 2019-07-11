@@ -19,4 +19,4 @@ The app should:
 2 - Give the option to star/favourite a file or folder.   
 3 - Permit the user to navigate between folders.   
 4 - Permit the user to click on a file or a folder. If the file is selected, it opens a screen with the name of the file. If the folder is selected, it should open a list of files in it.  
-5 - Have a "Favourites" screen where users can see their favourite files or folders.   
+5 - Have a "Favorites" screen where users can see their favourite files or folders.   
