@@ -1,4 +1,4 @@
-# otx-app-code-challenge
+# App Code Challenge
 Coding challenge for candidates .  
 
 # Requirements
