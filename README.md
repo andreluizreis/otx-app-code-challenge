@@ -16,7 +16,7 @@ Create an app that tries to simulate a Cloud storage application (e.g. Dropbox, 
 
 The app should have:   
 1 - Show the list of files and folders loaded from the data model (`data.json`).  
-2 - Give the option to star/favorite a file or folder.   
+2 - Give the option to star/favourite a file or folder.   
 3 - The user can navigate between folders.   
-4 - The user can click on a file or a folder. If the file is selected, it opens a screen with the name of the file. If the folder is selected, it opens a list of file in it.  
-5 - Favorites screen: Users can see their favorite files or folders.   
+4 - The user can click on a file or a folder. If the file is selected, it opens a screen with the name of the file. If the folder is selected, it opens a list of files in it.  
+5 - Favourites screen: Users can see their favourite files or folders.   
