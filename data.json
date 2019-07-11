@@ -61,12 +61,6 @@
         "parent_id": 4
     },
     {
-        "id":9,
-        "name": "birds",
-        "resource_type": "folder",
-        "parent_id": 4
-    },
-    {
         "id":10,
         "name": "duck.jpg",
         "file_type": "jpeg",
